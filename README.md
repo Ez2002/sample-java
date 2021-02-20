@@ -1,2 +1,3 @@
-# sample-java
-my first java repo
+# Sample Java Code
+
+This repo is for sample java code.
